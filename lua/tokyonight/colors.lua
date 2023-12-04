@@ -47,6 +47,8 @@ M.night = {
   bg_dark = "#16161e",
 }
 M.day = M.night
+M.day.bg = "#000000"
+M.day.fg = "#ffffff"
 
 M.moon = function()
   local ret = {
