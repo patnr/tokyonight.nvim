@@ -136,8 +136,8 @@ function M.terminal(colors)
   vim.g.terminal_color_1 = colors.red
   vim.g.terminal_color_9 = colors.red
 
-  vim.g.terminal_color_2 = colors.green
-  vim.g.terminal_color_10 = colors.green
+  vim.g.terminal_color_2 = "#20c32d"
+  vim.g.terminal_color_10 = "#20c32d"
 
   vim.g.terminal_color_3 = colors.yellow
   vim.g.terminal_color_11 = colors.yellow
