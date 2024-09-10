@@ -56,6 +56,8 @@ M.plugins = {
   ["nvim-treesitter-context"]       = "treesitter-context",
   ["octo.nvim"]                     = "octo",
   ["rainbow-delimiters.nvim"]       = "rainbow",
+  -- Fix while waiting for https://github.com/LazyVim/LazyVim/pull/4259 to be released
+  ["markdown.nvim"]          = "render-markdown",
   ["render-markdown.nvim"]          = "render-markdown",
   ["telescope.nvim"]                = "telescope",
   ["trouble.nvim"]                  = "trouble",
